@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T22:12:19.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" version="20.8.1" etag="Aofnameu21dH8J12Q2py" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-04T22:13:28.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" version="20.8.1" etag="jtFTVHgLv92MzLDdPJMH" type="github">
   <diagram id="UCsJHHNay0-3B39EjnT5" name="Page-1">
     <mxGraphModel dx="956" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,8 +43,11 @@
         <mxCell id="DEED-xMJpBzoZozIMPUZ-12" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;direction=west;" vertex="1" parent="1">
           <mxGeometry x="500" y="310" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DEED-xMJpBzoZozIMPUZ-13" value="Load factor restriction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="DEED-xMJpBzoZozIMPUZ-13" value="Load factor restriction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="570" y="295" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DEED-xMJpBzoZozIMPUZ-14" value="Safety Operation &lt;br&gt;Requirement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="240" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
