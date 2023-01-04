@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T22:04:39.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" version="20.8.1" etag="R7wx2Pptr0wajpq_5MMH" type="github"><diagram id="9LhWI9vZF2K0XtOfA3mL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-04T22:10:17.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" version="20.8.1" etag="mb867e1S7DqsO5KWz7c0" type="github">
+  <diagram id="UCsJHHNay0-3B39EjnT5" name="Page-1">
+    <mxGraphModel dx="956" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DEED-xMJpBzoZozIMPUZ-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="560" as="sourcePoint" />
+            <mxPoint x="760" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DEED-xMJpBzoZozIMPUZ-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="560" as="sourcePoint" />
+            <mxPoint x="760" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DEED-xMJpBzoZozIMPUZ-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="140" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="DEED-xMJpBzoZozIMPUZ-6" value="Construction Scale Bounds" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DEED-xMJpBzoZozIMPUZ-7" value="Maintenance Schedule" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DEED-xMJpBzoZozIMPUZ-8" value="Peak Shaving Gap Value" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DEED-xMJpBzoZozIMPUZ-9" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="50" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
